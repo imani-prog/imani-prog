@@ -1,19 +1,19 @@
-# 👋 Hey, I'm Timothy Imani  
-🚀 **Software Engineer | Java Spring Boot & Cloud Enthusiast**  
+#  Hey, I'm Timothy Imani  
+ **Software Engineer | Java Spring Boot & Cloud Enthusiast**  
 *Engineering scalable software solutions with Java, Spring Boot, and modern DevOps practices*  
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 Passionate about **designing and engineering scalable software systems**  
-- 🌱 Currently mastering **Java EE, Spring Boot, React.js, and DevOps**  
-- 🤝 Open to collaborating on **open-source projects & impactful tech solutions**  
-- 💬 Ask me about **Java, Python, Spring Boot, Artificial Intelligence, and building robust APIs**  
-- ⚡ Fun fact: I enjoy coding late at night while having mellow chats with AI models 😂  
+## About Me
+-  Passionate about **designing and engineering scalable software systems**  
+-  Currently mastering **Java EE, Spring Boot, React.js, and DevOps**  
+-  Open to collaborating on **open-source projects & impactful tech solutions**  
+-  Ask me about **Java, Python, Spring Boot, Artificial Intelligence, and building robust APIs**  
+-  Fun fact: I enjoy coding late at night while having mellow chats with AI models 😂  
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages**  
 <p>
@@ -51,14 +51,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - [**MediLink**](https://medilink-public.vercel.app/) – Digital healthcare platform connecting citizens, clinics, and CHWs  
 - [**DockerizedModels**](https://github.com/imani-prog/DockerizedModels) – Spring Boot + MySQL backend in Docker  
 - [**Hospital ERP**](#) – Scalable healthcare management system  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imani-prog&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imani-prog&layout=compact&theme=radical" height="150" />
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/timothy-imani-5677ba253" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="margin-right:10px;" />
