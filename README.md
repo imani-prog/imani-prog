@@ -52,8 +52,8 @@
 
 ## Featured Projects
 - [**MediLink**](https://medilink-public.vercel.app/) – Digital healthcare platform connecting citizens, clinics, and CHWs  
-- [**DockerizedModels**](https://github.com/imani-prog/DockerizedModels) – Spring Boot + MySQL backend in Docker  
-- [**Hospital ERP**](#) – Scalable healthcare management system  
+- [**Virtech**](https://virteck-solutions.vercel.app/) – Ecommerce plartform  
+- [**Inspire Me**](https://inspire-me-one.vercel.app/) – AI Powered Quotes Web App
 
 ---
 
