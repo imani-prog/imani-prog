@@ -99,18 +99,22 @@
 
 ---
 
-## Connect With Me  
+## Connect With Me
+
 <p>
-  <a href="https://www.linkedin.com/in/timothy-imani-5677ba253" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="margin-right:10px;" />
+  <a href="https://www.linkedin.com/in/timothy-imani-5677ba253">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/DevctoImani" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" style="margin-right:10px;" />
+  &nbsp;&nbsp;
+  <a href="https://x.com/DevctoImani">
+    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X" />
   </a>
-  <a href="https://imani-prog.github.io/TimothyImaniProfile/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" style="margin-right:10px;" />
+  &nbsp;&nbsp;
+  <a href="https://imani-prog.github.io/TimothyImaniProfile/">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website" />
   </a>
 </p>
+
 
 ---
 
