@@ -59,10 +59,39 @@
 
 ## GitHub Stats
 
-<p align="right">
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imani-prog&theme=github_dark"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imani-prog&theme=github_dark"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imani-prog&theme=github_dark"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imani-prog&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imani-prog&theme=github_dark"
+    alt="Productive Time"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=imani-prog&theme=dark"
-    alt="imani-prog"
+    alt="GitHub Streak"
   />
 </p>
 
