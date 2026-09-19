@@ -102,19 +102,14 @@
 ## Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/timothy-imani-5677ba253">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/timothy-imani-5677ba253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/DevctoImani">
-    <img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" alt="X" />
+  <a href="https://x.com/DevctoImani" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://imani-prog.github.io/TimothyImaniProfile/">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website" />
-  </a>
-</p>
 
+</p>
 
 ---
 
